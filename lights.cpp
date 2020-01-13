@@ -15,7 +15,7 @@
  * ...................
  * ********************************************************************/
 
-#define LOG_TAG "Lights Hal"
+#define LOG_TAG "LightsHal"
 
 #include <cutils/log.h>
 #include <cutils/atomic.h>
